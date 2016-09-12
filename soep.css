@@ -1,0 +1,30 @@
+h1
+{
+
+	font-family:Tahoma;
+	Color:yellow;
+}
+h2
+	{
+	font-family:Tahoma;
+	color:Lightblue;
+	}
+p
+{
+		font-family:Verdana;
+		Color:white;
+}
+li
+{
+			font-family:Verdana;
+			Color:white;
+}
+body
+{ 
+	background-color:black;
+	
+} 
+img
+{
+border:1px solid white;
+}

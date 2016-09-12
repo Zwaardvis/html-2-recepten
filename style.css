@@ -1,0 +1,44 @@
+body
+{
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-image:url(img/nature.jpg);
+	font-family:Lucida Console;
+	font-size:14px;
+	margin-left:20px;
+	margin-right:20px;
+	margin:0px;
+	opacity:0.9;
+}
+
+div.content
+{
+margin-left:auto;
+margin-right:auto;
+width:600px;
+color:black;
+background-image:url(img/div1.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+text-align: center;
+
+
+}
+
+ul.top-menu li
+{
+	display:inline;
+	margin-left:40px;
+	margin-right:40px;
+	color:rgb(255,68,68);
+
+}
+
+div.context{
+	margin-left:300px;
+	margin-right:300px;
+	width:300px;
+	margin-left:auto;
+	margin-right:auto;
+}
